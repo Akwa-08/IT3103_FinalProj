@@ -1,8 +1,8 @@
-IT 3103N System Architecture Final Project Guide
+**IT 3103N System Architecture Final Project Guide**
 
 Welcome to the guide for the IT 3103N System Architecture Final Project. This document will help you set up and run the project with clear instructions.
 
-Setup Instructions
+**Setup Instructions**
 
 1. Load the Database
 
@@ -31,7 +31,7 @@ IV_KEY="16 letter key"
 
 Replace the placeholders (e.g., "your username") with the appropriate values for your environment.
 
-Running the Project
+**Running the Project**
 
 1. Start the Services
 
@@ -41,10 +41,4 @@ node server.js
 
 This will start the services required for the project.
 
-Notes
 
-Ensure all environment variables are correctly set before running the services.
-
-Check that the database is successfully loaded and accessible from your services.
-
-If you encounter any errors, verify that all dependencies are installed and the .env files are configured properly.
