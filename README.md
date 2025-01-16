@@ -19,7 +19,7 @@ Welcome to the guide for the IT 3103N System Architecture Final Project. This do
 
 3. Configure Environment Variables
 
-	Edit the .env file in each service directory to include the following:
+   	Create an .env file in each service directory to include the following:
 
 	DB_NAME=supermarket
 	DB_USER="your username"
